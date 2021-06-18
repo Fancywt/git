@@ -13,5 +13,5 @@ hello fancy.com hello git
 hello fancy.com hello git
 hello fancy.com hello git
 hello fancy.com hello git
-hello fancy.com hello git
+hello fancy.com hello git master test
 hello fancy.com hello git hot-fix
